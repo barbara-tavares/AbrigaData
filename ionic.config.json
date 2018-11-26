@@ -1,5 +1,7 @@
 {
   "name": "AbrigaData",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
